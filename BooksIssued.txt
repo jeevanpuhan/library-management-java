@@ -1,0 +1,17 @@
+*************************** 
+LIBRARY MANAGEMENT SYSTEM 
+*************************** 
+
+Name            : Jeevan Kumar Puhan 
+Registration No : 1 
+
+============== 
+BOOKS ISSUED: 
+============== 
+
+#          Book ID    Book Name                      Issue Date      Due Date       
+--------------------------------------------------------------------------------------------------------------- 
+1          2          Think and Grow Rich            2020-06-13      2020-07-04     
+ 
+2          3          Core Java                      2020-06-13      2020-07-04     
+ 
